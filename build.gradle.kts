@@ -30,7 +30,7 @@ subprojects {
         manifest {
 
             attributes(
-                "time" to project.version
+                "version" to project.version
 
             )
         }
